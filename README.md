@@ -1,8 +1,12 @@
 # Portfolio-website
-#### By Mugisha Ahujabe Marie Beline
+
+#### By Mugisha Ahujabe Marie Beline !
+
 ## Description
+
 This is a portfolio website talking about my background,skills,hobbies and projects I have worked on so far.
 It  also contains my contact information.
+
 ## Setup Requirements
 * In order to access my website you need an internet browser.
 ## Technologies Used
