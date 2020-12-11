@@ -1,5 +1,5 @@
 # Portfolio-website
-#### By Louise Demarillac Izere
+#### By Mugisha Ahujabe Marie Beline
 ## Description
 This is a portfolio website talking about my background,skills,hobbies and projects I have worked on so far.
 It  also contains my contact information.
@@ -12,7 +12,7 @@ It  also contains my contact information.
 - Jquery
 - Markdown
 ## Support and contact details
-If you need more clarifications feel free to contact me on izered3@gmail.com
+If you need more clarifications feel free to contact me on belinemugisha21@gmail.com
 ### License
 MIT License
 
