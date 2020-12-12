@@ -1,0 +1,75 @@
+.nav {
+    background-color: #333;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .nav a {
+    float: left;
+    color: #f2f2f2;
+    padding: 30px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .nav a:hover {
+    background-color: #ddd;
+    color: pink;
+  }
+  
+  /* Add a color to the active/current link */
+  .nav a.active {
+    background-color: #4CAF50;
+    color: pink;
+  }
+  .cafe{
+      background-image: url("https://images.pexels.com/photos/539451/pexels-photo-539451.jpeg?auto=compress&cs=tinysrgb&h=650&w=940")
+    }
+  body{
+      background-color: pink;
+  }
+  .about-me{
+  margin-left:400px;
+  position:absolute;
+  top:70px;
+  }
+  .home{
+      background-image: url("https://res.cloudinary.com/ccb/image/upload/v1605514221/cedu_nb3rtm.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+    }
+
+  .footer{
+      background-color: wheat;
+      position: absolute;
+      top:95%;
+      margin-left:300px;
+  }
+  .about{
+    margin-left:400px;
+  position:absolute;
+  top:150px;  
+  }
+  h2{
+      color:red;
+  }
+  .cafe a:hover {
+    background-color: #ddd;
+    color: pink;
+  }
+  .about a:hover {
+    background-color: #ddd;
+    color: pink;
+  }
+  .cafe a{
+      font-size:25px;
+  }
+  .about a{
+      font-size:25px;
+  }
+  #mine{
+      position: absolute;
+      top:20%;
+  }
+  
